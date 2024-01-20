@@ -83,3 +83,4 @@ git log --graph
 
 # Apache Subversion (SVN)
 
+# Добавил заключение
