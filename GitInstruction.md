@@ -32,6 +32,13 @@ You also need to introduce yourself to the GIT as all your comits and changes to
 
 ### Базовая работа с локальным репозиторием
 
+First things first. You need to start up the GIT. Use the following command to initialize the progrram.
+
+```sh
+git init
+``` 
+ - this will start the GIT program working
+
 ## Ветки. Локальная работа с ветками в git.
 
 ### Что такое ветки и для чего они нужны при работе с системой контроля версий.
