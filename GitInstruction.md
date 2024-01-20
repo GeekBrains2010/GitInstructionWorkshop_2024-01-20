@@ -10,6 +10,19 @@
 
 ### Установка VSCode на ваш ПК.
 
+<font size = 4>After you have initialized GIT at your device you need to check if the GIT is installed correctly. To check it follow the command given below.
+
+```sh
+git --version
+```
+
+So what we do next? We need to track the file and all the changes to it throughout the working process.
+Let's add some directory where all the files we need to track will be.
+
+Go the left side of VSC and add folder. in the updoming window you can choose the path to the directory or paste the address to your local folder. After that let's create a file inside of the folder. When the file is created check if you have stated the resolution to the file (for example .md, .exe., etc.)
+
+Once the file is created let's add it to the tracking list of the GIT  for Version Control. Follow the next command and put the name of the file correctly.
+
 ### Установка git на ваш ПК
 
 #### Первая настройка git
