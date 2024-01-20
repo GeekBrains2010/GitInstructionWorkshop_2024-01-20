@@ -1,3 +1,5 @@
+![Лого Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg)
+
 # Инструкция по работе с git
 
 ## Что это и для чего нужна система контроля версий?
