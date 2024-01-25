@@ -98,6 +98,7 @@ git config --global user.email <ваш email@example.что-то>
 Дайте угадаю............. Наверное git, мы ведь его изучаем уже 6 уроков))))
 
 # Система одновременных версий (CVS)
+ХЗ вообще что это
 
 # Apache Subversion (SVN)
 
