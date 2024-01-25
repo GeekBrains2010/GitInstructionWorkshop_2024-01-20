@@ -101,5 +101,6 @@ git config --global user.email <ваш email@example.что-то>
 ХЗ вообще что это
 
 # Apache Subversion (SVN)
+и это тоже....
 
 # Добавил заключение
