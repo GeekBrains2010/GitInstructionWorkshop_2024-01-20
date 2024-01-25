@@ -11,8 +11,8 @@
 
 ## Установка git и VSCode на ваш ПК.
 
-    1. Скачать [git for Windows](https://gitforwindows.org "ссылка на официальный сайт git for Windows") с официального сайта.
-    2. Скачать [VSCode](https://code.visualstudio.com "ссылка на официльный сайт с VSCode") с официального сайта.
+    1. Скачать git for Windows [https://gitforwindows.org]("ссылка на официальный сайт git for Windows") с официального сайта.
+    2. Скачать VSCode [https://code.visualstudio.com]("ссылка на официльный сайт с VSCode") с официального сайта.
     3. После этого установить git for Windows и VSCode следуя инстуркциям Wizard Master.
     4. Во время установки git for Windows в пункте выбора редактора по умолчанию выбрать вашу версию VSCode.
 
